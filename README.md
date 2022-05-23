@@ -1,6 +1,9 @@
 # ML_class
 学堂在线《机器学习》实验课代码+报告（其中实验1和实验6有配套PPT），授课老师为张敏老师。课程链接：https://www.xuetangx.com/training/ML080910036802/1048372?channel=i.area.page_course_ad。
-持续更新中。
+
+
+持续更新中。此外，欢迎关注我的CSDN：https://blog.csdn.net/Can__er?type=blog
+
 ## EXP6 基于集成学习的Amazon用户评论质量预测
 ### 一、案例简介
 
