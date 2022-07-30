@@ -3,7 +3,7 @@
 学堂在线《机器学习》实验课代码+报告（其中实验1和实验6有配套PPT），授课老师为张敏老师。课程链接：https://www.xuetangx.com/training/ML080910036802/1048372?channel=i.area.page_course_ad。
 
 持续更新中。
-所有代码为作者所写，并非最后的“标准答案”，只有课程设计被扣了1分，其余皆是满分。此外，欢迎关注我的CSDN：https://blog.csdn.net/Can__er?type=blog。
+所有代码为作者所写，并非最后的“标准答案”，只有课程设计被扣了1分，其余皆是满分。仓库链接：https://github.com/W-caner/ML_class。 此外，欢迎关注我的CSDN：https://blog.csdn.net/Can__er?type=blog。
 部分数据集由于过大无法上传，我会在博客中给出下载链接。如果对代码有疑问，有更好的思路等，也非常欢迎在评论区与我交流~
 
 ## EXP1 基于决策树的英雄联盟游戏胜负预测
